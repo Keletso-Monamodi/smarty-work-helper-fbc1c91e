@@ -87,8 +87,8 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { name: "twitter:site", content: "@Lovable" },
       { name: "twitter:title", content: "Lovable App" },
       { name: "twitter:description", content: "WorkMate AI Helper is a responsive web app for office workers, assisting with email generation, meeting summarization, and AI-powered chat." },
-      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/8fde10c8-4333-4e7c-b5de-cc1990f328e3/id-preview-df118fcc--6f8cd873-5725-4209-a1df-b4c29707f5e2.lovable.app-1781095839896.png" },
-      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/8fde10c8-4333-4e7c-b5de-cc1990f328e3/id-preview-df118fcc--6f8cd873-5725-4209-a1df-b4c29707f5e2.lovable.app-1781095839896.png" },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/bf7bc5d6-7286-4392-843d-702a16db1719/id-preview-c7f7f598--6f8cd873-5725-4209-a1df-b4c29707f5e2.lovable.app-1781099008701.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/bf7bc5d6-7286-4392-843d-702a16db1719/id-preview-c7f7f598--6f8cd873-5725-4209-a1df-b4c29707f5e2.lovable.app-1781099008701.png" },
     ],
     links: [
       {
