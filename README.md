@@ -28,3 +28,8 @@ Chatbot = Ask questions and IT assistance.
 Before creating AI assistant, workers was taking 10+ minutes to write email, taking 20+ minutes writing meeting notes. Spending 30+ minutes searching something on internet. 
 
 After building this app workers will be able to do everything in less than 3 minutes on each task they want to do.
+
+5. Features and impact of my app.
+- Email Generator = You type who the email is for and what it’s about. The app writes a proper work email in 5 seconds. 
+- Meeting Summarizer = After meetings everyone has messy notes. You paste them here and the app gives you 3 things: Key decisions, Action items, Who must do what. 
+- Chatbot = New staff always ask same questions: “How do I apply leave?” “WiFi password?” Instead of bothering HR/IT, you just ask the chatbot. It gives answers instantly.
